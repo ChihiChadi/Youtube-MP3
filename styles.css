@@ -1,0 +1,22 @@
+.container {
+    margin: 50px auto;
+    text-align: center;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+h1 {
+    color: #333;
+}
